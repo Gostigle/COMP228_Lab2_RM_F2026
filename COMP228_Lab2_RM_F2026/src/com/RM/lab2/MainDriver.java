@@ -25,7 +25,6 @@ public class MainDriver {
         Interest interest4 = new Interest(principal, rate, time);
         Interest interest5 = new Interest(principal, rate, time);
 
-    
         double p_d = principal.doubleValue();
         double r_d = rate.doubleValue();
 
