@@ -8,7 +8,7 @@ public class Interest {
     BigDecimal rate;
     double time;
 
-    // Constructor
+    
     public Interest(BigDecimal principal, BigDecimal rate, double time)
     {
        
